@@ -3,7 +3,7 @@ Funkumo Horowitz
 Page modele.php
 
 Modèle de page pour le site.
---->
+-->
 
 	<?php include ('includes/haut.php');
 		//include_once('../motor/connexion_sql.php'); // Connexion à SQL par include, si jamais
